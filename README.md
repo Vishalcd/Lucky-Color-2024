@@ -11,7 +11,7 @@ Welcome to the Color Game repository! This project is a simple yet engaging colo
 
 
 ## Demo
-Live Demo (link to your deployed project)
+Live Demo [link](https://codesandbox.io/p/sandbox/github/Vishalcd/Lucky-Color-2024/tree/main/)
 
 
 ## Installation
